@@ -1,1 +1,1 @@
-  ![Screenshot](/Screenshot.png)
+![](/GPUS/NVIDIA%20GeForce%20GTX%201660%20SUPER%206GB%20GraphicsPlayer/NVIDIA%20GeForce%20GTX%201660%20SUPER%206GB%20GraphicsPlayer.gif)
